@@ -1,16 +1,73 @@
-# bank_sha
+# Bank Sha
+## E-Wallet App (UI Prototype Only)
 
-A new Flutter project.
+Bank Sha is an Prototype App which was build on educational Purpose and portofolio stuff for myself,
+Build in Flutter
 
-## Getting Started
+### Home Screen Layout 
+[![Home Screen](https://i.ibb.co/ZLCbmNy/Home.png)](https://nodesource.com/products/nsolid)
 
-This project is a starting point for a Flutter application.
+## Pages in App
 
-A few resources to get you started if this is your first Flutter project:
+- Splash Page
+- Onboarding Page
+- Sign Up Page
+- Sign In Page
+- Home Page
+- Profile Page
+- Edit Profile Page
+- Transfer Page
+- Buy Mobile Data Page
+- Pin Page (Default Pin is "123123")
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Feature in App
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Url Launcher
+- Pin Page
+- Flushbar
+- Google Fonts
+- Split Widget
+
+## Installation
+
+This project is builded in Flutter so if you want to run the project you must have Dart SDK and Flutter SDK
+
+
+Clone the Repository
+
+Then clean the workspace with
+
+```sh
+flutter clean
+```
+
+Then get the requirement depedency
+
+```sh
+flutter pub get
+```
+
+## Depedency
+
+| Plugin |
+| ------ |
+| another_flushbar: ^1.12.29 |
+| carousel_slider: ^4.1.1 |
+| cupertino_icons: ^1.0.2 | 
+|  google_fonts: ^3.0.1 |
+| intl: ^0.17.0 | 
+| url_launcher: ^6.1.6| 
+
+
+## Buy me an Coffee
+
+Want to support me by buying me a coffee
+
+Ethereum : 0x86b6B25318D55123cC7529A4c3252c622F08244b
+
+
+## License
+
+MIT
+
+**Free Software, Hell Yeah!**
