@@ -5,7 +5,8 @@ Bank Sha is an Prototype App which was build on educational Purpose and portofol
 Build in Flutter
 
 ### Home Screen Layout 
-[![Home Screen](https://i.ibb.co/ZLCbmNy/Home.png)](https://nodesource.com/products/nsolid)
+
+<img src="https://i.ibb.co/ZLCbmNy/Home.png" height="812">
 
 ## Pages in App
 
